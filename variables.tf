@@ -1,5 +1,5 @@
 /*
- * Module: tf_aws_asg_elb
+ * Module: TF_ELB_ASG_mod
  */
 
 #
