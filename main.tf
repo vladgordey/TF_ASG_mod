@@ -1,5 +1,5 @@
 /*
- * Module: tf_aws_asg_elb
+ * Module: tf_asg
  *
  * This template creates the following resources
  *   - A launch configuration
